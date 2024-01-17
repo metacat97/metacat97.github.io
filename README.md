@@ -1,2 +1,1 @@
-# metacat97.github.io
-Create Blog 
+blog test입니다.
